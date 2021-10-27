@@ -36,10 +36,6 @@ Currently, I'm studying bachelor's degree in Computer Engineering and I've been 
   <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="32" height="32"/> 
   </a>
-
-  <a href="https://graphql.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="32" height="32"/> 
-  </a>
     
   <a href="https://www.python.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> 
