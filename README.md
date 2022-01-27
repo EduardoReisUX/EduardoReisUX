@@ -5,5 +5,5 @@
 <h2 align="center">Stacks</h2>
 
 <p align="center">
-  <img src="techs.png" alt="technologies">
+  <img src="techss.png" alt="technologies">
 </p>
